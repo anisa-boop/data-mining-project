@@ -1,0 +1,11 @@
+Product,Purchase_Frequency,Average_Price,Total_Sales,Category,Category_Books,Category_Clothing,Category_Electronics,Category_Footwear,Category_Home Appliances,Cluster,Cluster_Description,PC1,PC2
+Book,25,15.0,1035,Books,1.0,0.0,0.0,0.0,0.0,4,"Produk sangat murah, frekuensi rendah",-1.6837919882876862,-0.09410087250694477
+Headphones,25,100.0,7300,Electronics,0.0,0.0,1.0,0.0,0.0,0,"Produk harga menengah, frekuensi tinggi",-0.46130270128511613,1.1190889760726526
+Jeans,20,40.0,2480,Clothing,0.0,1.0,0.0,0.0,0.0,3,"Produk murah, frekuensi rendah",-1.8165786030994857,-1.3813684212774573
+Laptop,24,800.0,58400,Electronics,0.0,0.0,1.0,0.0,0.0,0,"Produk harga menengah, frekuensi tinggi",1.6434464681922005,0.8653081808906904
+Refrigerator,24,1200.0,78000,Home Appliances,0.0,0.0,0.0,0.0,1.0,1,"Produk premium, total sales tinggi",3.3453304097587586,-1.463472438907315
+Running Shoes,27,60.0,4320,Footwear,0.0,0.0,0.0,1.0,0.0,2,"Produk terjangkau, frekuensi tinggi",-1.4307834932431809,0.3265860939463067
+Smartphone,35,500.0,48500,Electronics,0.0,0.0,1.0,0.0,0.0,0,"Produk harga menengah, frekuensi tinggi",1.0985723760062205,2.1297083033999513
+Smartwatch,34,150.0,15750,Electronics,0.0,0.0,1.0,0.0,0.0,0,"Produk harga menengah, frekuensi tinggi",-0.12155277916157484,2.0863156031654273
+T-Shirt,20,20.0,1060,Clothing,0.0,1.0,0.0,0.0,0.0,3,"Produk murah, frekuensi rendah",-1.8761370490580447,-1.3771577756220064
+Washing Machine,16,600.0,27000,Home Appliances,0.0,0.0,0.0,0.0,1.0,1,"Produk premium, total sales tinggi",1.3027973601779064,-2.210907649161305
